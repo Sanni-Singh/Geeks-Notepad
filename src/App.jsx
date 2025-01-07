@@ -1,12 +1,11 @@
 
 import './App.css'
-import NotePad from './notePad'
+import NotePadeeee from './NotePadeeee'
 
 function App() {
-
   return (
     <div className='container'>
-      <NotePad />
+      <NotePadeeee />
     </div>
   )
 }
